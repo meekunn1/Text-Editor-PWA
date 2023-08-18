@@ -25,7 +25,7 @@ Otherwise, no installation is required to use the deployed app. Please visit the
 
 ## Usage
 
-Thee inputted text will be saved automatically.
+The inputted text will be saved automatically.
 Clicking on the top left "install" button will allow you to install a PWA of this app.
 ## License
   
