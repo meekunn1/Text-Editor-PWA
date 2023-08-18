@@ -18,15 +18,15 @@ This project is a progressive web application (PWA) of a simple text editor. Thi
 
 ## Installation
 
-From a git clone folder for developement:
- Do a `npm install` to install [concurently](https://www.npmjs.com/package/concurrently) devDependency. Then, run `npm run start` to get the server running. got to `localhost:3000` for the app.
+From a git clone folder for development:
+ Do a `npm install` to install [concurrently](https://www.npmjs.com/package/concurrently) devDependency. Then, run `npm run start` to get the server running. got to `localhost:3000` for the app.
 
-Otherwise, no installation is required to use the deploied app. please visit the following url.
+Otherwise, no installation is required to use the deployed app. Please visit the following [url](https://afternoon-shore-36098-3ea4ab243ea8.herokuapp.com/).
 
 ## Usage
 
-Inputed text will be saved automatically.
-clicking on the top left "install" button will allow you to install a PWA of this app.
+Thee inputted text will be saved automatically.
+Clicking on the top left "install" button will allow you to install a PWA of this app.
 ## License
   
 [![license](https://img.shields.io/badge/License-MIT-green)](https://choosealicense.com/licenses/mit/)
@@ -43,4 +43,4 @@ Starter code was provided by UCI bootcamp.
 
 For any questions, please visit my [GitHub profile](https://github.com/meekunn1).
 
-For any additinal questions, please contact me through email at: meekunn@gmail.com
+For any additional questions, please contact me through email at: meekunn@gmail.com
