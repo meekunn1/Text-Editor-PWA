@@ -27,7 +27,7 @@ Otherwise, no installation is required to use the deployed app. Please visit the
 
 The inputted text will be saved automatically.
 Clicking on the top left "Install!" button will allow you to install a PWA of this app.
-![overview of webapp](./prompt/Assets/JATE_sample.png)
+![overview of webapp](./Assets/JATE_sample.png)
 ## License
   
 [![license](https://img.shields.io/badge/License-MIT-green)](https://choosealicense.com/licenses/mit/)
